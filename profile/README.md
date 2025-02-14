@@ -164,9 +164,8 @@ Este produto cuidará da integração entre os diferentes módulos do sistema e 
 <details>
 <summary><strong>Lista de Ferramentas</strong></summary>
 
-- **Gestão de Projeto:** Trello, Jira ou Notion.  
+- **Gestão de Projeto:** GitHub (Projects).  
 - **Desenvolvimento:** GitHub (versionamento), Docker (conteinerização).  
-- **Dashboards:** Ferramentas como Power BI, Tableau ou bibliotecas como Chart.js/D3.js.  
 - **Testes:** Ferramentas de teste de usabilidade e segurança.  
 </details>
 
