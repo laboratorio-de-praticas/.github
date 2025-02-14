@@ -45,52 +45,82 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 
 ---
 
-## User Stories
+## Produtos e Funcionalidades
 
-### 1. Autenticação Segura
-- **Como** administrador do sistema,  
-- **quero** que os usuários se autentiquem com login e senha (ou autenticação de dois fatores),  
-- **para que** apenas pessoas autorizadas possam acessar a votação interna.  
+### 1. CMS (Content Management System)
+**Descrição:**  
+O CMS será o sistema de gerenciamento de conteúdo do projeto, permitindo que administradores cadastrem e gerenciem informações sobre candidatos (representantes de turma) e projetos das feiras FTX e HubTec.  
 
-### 2. Votação Interna (Representante de Turma)
-- **Como** aluno,  
-- **quero** votar no representante da minha turma de forma anônima e segura,  
-- **para que** minha escolha seja confidencial e o resultado seja justo.  
+**Funcionalidades Principais:**  
+- Cadastro de candidatos (representantes de turma) com fotos, descrições e informações relevantes.  
+- Cadastro de projetos das feiras FTX e HubTec, incluindo título, descrição, equipe responsável e fotos.  
+- Edição e exclusão de conteúdos cadastrados.  
+- Interface amigável para administradores, com validação de dados e prevenção de erros.  
+- Integração com o módulo de **Vitrine** para exibição dos projetos ao público.  
 
-### 3. Votação Pública (Melhor Projeto das Feiras FTX e HubTec)
-- **Como** membro do público externo,  
-- **quero** votar no melhor projeto das feiras tecnológicas **FTX e HubTec** de forma simples e acessível,  
-- **para que** minha opinião seja considerada na premiação.  
+---
 
-### 4. Painel de Resultados em Tempo Real
-- **Como** organizador da votação,  
-- **quero** visualizar os resultados em tempo real,  
-- **para que** eu possa acompanhar o progresso da votação e tomar decisões, se necessário.  
+### 2. Dash e Reports (Dashboards e Relatórios)
+**Descrição:**  
+Este produto será responsável por fornecer transparência ao processo de votação, com dashboards em tempo real e relatórios detalhados para auditoria.  
 
-### 5. Acessibilidade e Usabilidade
-- **Como** usuário com deficiência visual,  
-- **quero** que o sistema seja acessível com leitores de tela e teclado navegável,  
-- **para que** eu possa votar de forma independente.  
+**Funcionalidades Principais:**  
+- Painel de resultados em tempo real, mostrando a distribuição de votos por candidato/projeto.  
+- Gráficos interativos (ex.: barras, pizza) para visualização dos dados.  
+- Relatórios detalhados com logs de atividades (quem votou, quando e em quem).  
+- Exportação de relatórios em formatos como PDF e CSV.  
+- Filtros para visualização de dados por período, turma ou feira (FTX/HubTec).  
 
-### 6. Segurança e Integridade dos Dados
-- **Como** administrador do sistema,  
-- **quero** que os votos sejam criptografados e armazenados com integridade,  
-- **para que** o processo seja confiável e à prova de fraudes.  
+---
 
-### 7. Dashboards e Relatórios para Auditoria
-- **Como** administrador do sistema,  
-- **quero** gerar dashboards e relatórios detalhados sobre as votações,  
-- **para que** haja transparência e seja possível realizar auditorias, se necessário.  
+### 3. Votação
+**Descrição:**  
+O núcleo do sistema, onde os usuários (alunos, professores e público externo) poderão votar de forma segura e anônima.  
 
-**Critérios de Aceitação:**  
-- Os dashboards devem exibir métricas como:  
-  - Número total de votos.  
-  - Distribuição de votos por candidato/projeto.  
-  - Horários de pico de votação.  
-- Os relatórios devem incluir:  
-  - Logs de atividades (quem votou, quando e em quem).  
-  - Dados criptografados para garantir a privacidade dos votantes.  
-  - Exportação em formatos como PDF e CSV.  
+**Funcionalidades Principais:**  
+- Votação interna para escolha de representantes de turma, com autenticação segura.  
+- Votação pública para eleger o melhor projeto das feiras FTX e HubTec, sem necessidade de login.  
+- Interface simples e intuitiva, com confirmação visual do voto registrado.  
+- Garantia de anonimato e integridade dos votos.  
+- Limitação de um voto por usuário/dispositivo (controle por IP ou autenticação).  
+
+---
+
+### 4. Vitrine
+**Descrição:**  
+A vitrine será a interface pública do sistema, onde os projetos das feiras FTX e HubTec serão exibidos para o público votante.  
+
+**Funcionalidades Principais:**  
+- Exibição dos projetos cadastrados no CMS, com fotos, descrições e detalhes.  
+- Filtros para busca de projetos por categoria, turma ou feira (FTX/HubTec).  
+- Design responsivo, funcionando bem em dispositivos móveis e desktop.  
+- Integração com o módulo de **Votação** para permitir que os usuários votem diretamente na vitrine.  
+- Links para compartilhamento nas redes sociais, aumentando a visibilidade dos projetos.  
+
+---
+
+### 5. Autenticação e Segurança
+**Descrição:**  
+Este produto garantirá a segurança do sistema, protegendo dados sensíveis e garantindo que apenas usuários autorizados possam acessar funcionalidades específicas.  
+
+**Funcionalidades Principais:**  
+- Sistema de autenticação seguro, com login e senha (e opção de autenticação de dois fatores).  
+- Criptografia de votos e dados sensíveis durante a transmissão e armazenamento.  
+- Geração de logs de atividades para auditoria (ex.: tentativas de acesso, votos registrados).  
+- Prevenção contra ataques comuns, como SQL injection e DDoS.  
+- Validação de IP para limitar votos públicos a um por dispositivo.  
+
+---
+
+### 6. Integração e APIs
+**Descrição:**  
+Este produto cuidará da integração entre os diferentes módulos do sistema e com serviços externos, garantindo que tudo funcione de forma coesa e eficiente.  
+
+**Funcionalidades Principais:**  
+- Desenvolvimento de APIs para comunicação entre front-end e back-end.  
+- Integração com serviços de autenticação externos (ex.: Google, Facebook).  
+- Webhooks para notificações em tempo real (ex.: alertas de novos votos).  
+- Documentação clara das APIs para facilitar a manutenção e futuras integrações.  
 
 ---
 
