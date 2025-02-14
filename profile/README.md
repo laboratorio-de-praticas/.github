@@ -1,4 +1,4 @@
-# Projeto: Sistema de Votação para a Faculdade
+# Projeto: Sistema de Votação para a Fatec
 
 ## Descrição do Projeto
 O projeto consiste no desenvolvimento de um sistema de votação para a faculdade, que permitirá:
