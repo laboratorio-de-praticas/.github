@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 O projeto consiste no desenvolvimento de um sistema de votação para a faculdade, que permitirá:
 - Votação **interna e segura** para escolha de representantes de turma.
-- Votação **pública** (aberta ao externo) para eleger o melhor projeto da feira de apresentações.
+- Votação **pública** (aberta ao externo) para eleger o melhor projeto das nossas feiras tecnológicas **FTX e HubTec**.
 
 O sistema deve ser seguro, acessível e funcional tanto para usuários internos (alunos e professores) quanto para o público externo. Além disso, o sistema deve fornecer **dashboards e relatórios** detalhados para garantir transparência e permitir auditorias, caso necessário.
 
@@ -57,9 +57,9 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 - **quero** votar no representante da minha turma de forma anônima e segura,  
 - **para que** minha escolha seja confidencial e o resultado seja justo.  
 
-### 3. Votação Pública (Melhor Projeto da Feira)
+### 3. Votação Pública (Melhor Projeto das Feiras FTX e HubTec)
 - **Como** membro do público externo,  
-- **quero** votar no melhor projeto da feira de forma simples e acessível,  
+- **quero** votar no melhor projeto das feiras tecnológicas **FTX e HubTec** de forma simples e acessível,  
 - **para que** minha opinião seja considerada na premiação.  
 
 ### 4. Painel de Resultados em Tempo Real
