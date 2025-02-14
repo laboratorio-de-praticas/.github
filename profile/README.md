@@ -1,11 +1,11 @@
-# Projeto: Sistema de Votação para a Fatec
+# Projeto: Sistema de Votação para a Faculdade
 
 ## Descrição do Projeto
 O projeto consiste no desenvolvimento de um sistema de votação para a faculdade, que permitirá:
 - Votação **interna e segura** para escolha de representantes de turma.
 - Votação **pública** (aberta ao externo) para eleger o melhor projeto da feira de apresentações.
 
-O sistema deve ser seguro, acessível e funcional tanto para usuários internos (alunos e professores) quanto para o público externo.
+O sistema deve ser seguro, acessível e funcional tanto para usuários internos (alunos e professores) quanto para o público externo. Além disso, o sistema deve fornecer **dashboards e relatórios** detalhados para garantir transparência e permitir auditorias, caso necessário.
 
 ---
 
@@ -77,6 +77,21 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 - **quero** que os votos sejam criptografados e armazenados com integridade,  
 - **para que** o processo seja confiável e à prova de fraudes.  
 
+### 7. Dashboards e Relatórios para Auditoria
+- **Como** administrador do sistema,  
+- **quero** gerar dashboards e relatórios detalhados sobre as votações,  
+- **para que** haja transparência e seja possível realizar auditorias, se necessário.  
+
+**Critérios de Aceitação:**  
+- Os dashboards devem exibir métricas como:  
+  - Número total de votos.  
+  - Distribuição de votos por candidato/projeto.  
+  - Horários de pico de votação.  
+- Os relatórios devem incluir:  
+  - Logs de atividades (quem votou, quando e em quem).  
+  - Dados criptografados para garantir a privacidade dos votantes.  
+  - Exportação em formatos como PDF e CSV.  
+
 ---
 
 ## Equipes e Responsabilidades
@@ -84,12 +99,14 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 - **Front-End:** Desenvolvimento das telas de votação e painel de resultados.  
 - **Back-End:** Lógica do sistema, autenticação e segurança.  
 - **DevOps:** Configuração de servidores, monitoramento e CI/CD.  
+- **Analytics:** Desenvolvimento de dashboards e relatórios (integração com Back-End).  
 
 ---
 
 ## Ferramentas Utilizadas
 - **Gestão de Projeto:** Trello, Jira ou Notion.  
 - **Desenvolvimento:** GitHub (versionamento), Docker (conteinerização).  
+- **Dashboards:** Ferramentas como Power BI, Tableau ou bibliotecas como Chart.js/D3.js.  
 - **Testes:** Ferramentas de teste de usabilidade e segurança.  
 
 ---
