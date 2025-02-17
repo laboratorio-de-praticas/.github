@@ -139,7 +139,6 @@ Este produto cuidará da integração entre os diferentes módulos do sistema e 
 - Desenvolvimento de APIs para comunicação entre front-end e back-end.  
 - Integração com serviços de autenticação externos (ex.: Google, Facebook).  
 - Webhooks para notificações em tempo real (ex.: alertas de novos votos).  
-- Integração com ferramentas de analytics (ex.: Google Analytics) para monitoramento de uso.  
 - Documentação clara das APIs para facilitar a manutenção e futuras integrações.  
 </details>
 
