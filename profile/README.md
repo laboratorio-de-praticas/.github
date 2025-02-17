@@ -25,7 +25,7 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 
 | **Data**       | **Foco da Atualização**                                                                 |
 |-----------------|----------------------------------------------------------------------------------------|
-| **21/fev**     | Definição final das equipes e início do desenvolvimento das primeiras user stories.    |
+| **25/fev**     | Definição final das equipes e início do desenvolvimento das primeiras user stories.    |
 | **28/fev**     | Revisão do protótipo de UX e validação da autenticação segura (Back-End).              |
 | **07/mar**     | Entrega parcial: sistema de autenticação funcional e telas de votação interna.         |
 | **14/mar**     | Revisão da votação interna e início do desenvolvimento da votação pública.             |
