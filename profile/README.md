@@ -169,12 +169,3 @@ Este produto cuidará da integração entre os diferentes módulos do sistema e 
 </details>
 
 ---
-
-## Como Contribuir
-
-<details>
-<summary><strong>Instruções para Contribuição</strong></summary>
-
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-votacao.git
