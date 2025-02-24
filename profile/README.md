@@ -23,17 +23,17 @@ O sistema deve ser seguro, acessível e funcional tanto para usuários internos 
 
 As atualizações ocorrerão nas seguintes sextas-feiras:
 
-| **Data**       | **Foco da Atualização**                                                                 |
-|-----------------|----------------------------------------------------------------------------------------|
-| **25/fev**     | Definição final das equipes e início do desenvolvimento das primeiras user stories.    |
-| **28/fev**     | Revisão do protótipo de UX e validação da autenticação segura (Back-End).              |
-| **07/mar**     | Entrega parcial: sistema de autenticação funcional e telas de votação interna.         |
-| **14/mar**     | Revisão da votação interna e início do desenvolvimento da votação pública.             |
-| **21/mar**     | Testes de usabilidade e acessibilidade nas telas de votação.                          |
-| **28/mar**     | Entrega parcial: votação pública funcional e painel de resultados em tempo real.       |
-| **04/abr**     | Revisão da segurança (criptografia, logs, integridade dos dados).                      |
-| **11/abr**     | Testes finais e correção de bugs.                                                     |
-| **25/abr**     | Preparação para a entrega final: documentação e ajustes finais.                       |
+| **Data**       | **Foco da Atualização**                                                         |
+|----------------|---------------------------------------------------------------------------------|
+| **25/fev**     | Definição final das equipes e definição da user stories.                        |
+| **28/fev**     | Início do desenvolvimento das primeiras user stories.                           |
+| **07/mar**     | Revisão do protótipo de UX e validação da autenticação segura (Back-End).       |
+| **14/mar**     | Entrega parcial: sistema de autenticação funcional e telas de votação interna.  |
+| **21/mar**     | Revisão da votação interna e início do desenvolvimento da votação pública.      |
+| **28/mar**     | Testes de usabilidade e acessibilidade nas telas de votação.                    |
+| **04/abr**     | Entrega parcial: votação pública funcional e painel de resultados em tempo real.|
+| **11/abr**     | Revisão da segurança (criptografia, logs, integridade dos dados).               |
+| **25/abr**     | Testes finais e correção de bugs.                                               |
 </details>
 
 <details>
