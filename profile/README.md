@@ -70,7 +70,9 @@ O CMS será o sistema de gerenciamento de conteúdo do projeto, permitindo que a
 - Cadastro de projetos das feiras FTX e HubTec, incluindo título, descrição, equipe responsável e fotos.  
 - Edição e exclusão de conteúdos cadastrados.  
 - Interface amigável para administradores, com validação de dados e prevenção de erros.  
-- Integração com o módulo de **Vitrine** para exibição dos projetos ao público.  
+- Integração com o módulo de **Vitrine** para exibição dos projetos ao público.
+
+- [Equipe CMS - LP_2025_1.pdf](https://github.com/user-attachments/files/19163748/Equipe.CMS.-.LP_2025_1.pdf)
 </details>
 
 <details>
