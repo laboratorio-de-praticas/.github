@@ -72,7 +72,7 @@ O CMS será o sistema de gerenciamento de conteúdo do projeto, permitindo que a
 - Interface amigável para administradores, com validação de dados e prevenção de erros.  
 - Integração com o módulo de **Vitrine** para exibição dos projetos ao público.
 
-  <img src="![Organograma - Equipe CMS - 2025_1](https://github.com/user-attachments/assets/cc2bd741-4aed-47ae-84f6-9ef468902f61)" alt="Organograma: Equipe CMS" style="largura:50%; altura:automático;">
+<img src="![Organograma - Equipe CMS - 2025_1](https://github.com/user-attachments/assets/aa177108-3fa8-406d-a454-570f2f460a29)" alt="Organograma: Equipe CMS" largura="300" altura="200">
 
 </details>
 
