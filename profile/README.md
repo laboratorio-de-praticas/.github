@@ -133,7 +133,10 @@ Este produto garantirá a segurança do sistema, protegendo dados sensíveis e g
 - Criptografia de votos e dados sensíveis durante a transmissão e armazenamento.  
 - Geração de logs de atividades para auditoria (ex.: tentativas de acesso, votos registrados).  
 - Prevenção contra ataques comuns, como SQL injection e DDoS.  
-- Validação de IP para limitar votos públicos a um por dispositivo.  
+- Validação de IP para limitar votos públicos a um por dispositivo.
+  
+![Organograma_Tribo_Integração](https://github.com/user-attachments/assets/8659191d-cf45-4f39-aa7c-54f528e1ae12)
+
 </details>
 
 <details>
