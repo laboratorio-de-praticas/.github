@@ -87,7 +87,11 @@ Este produto será responsável por fornecer transparência ao processo de vota�
 - Gráficos interativos (ex.: barras, pizza) para visualização dos dados.  
 - Relatórios detalhados com logs de atividades (quem votou, quando e em quem).  
 - Exportação de relatórios em formatos como PDF e CSV.  
-- Filtros para visualização de dados por período, turma ou feira (FTX/HubTec).  
+- Filtros para visualização de dados por período, turma ou feira (FTX/HubTec).
+
+
+![Organograma - Equipe Dash - 2025_1](https://private-user-images.githubusercontent.com/99757123/421576930-cafee9f7-1c94-4dcf-ad77-f1de6c15e0ed.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3MjgxMzAsIm5iZiI6MTc0MTcyNzgzMCwicGF0aCI6Ii85OTc1NzEyMy80MjE1NzY5MzAtY2FmZWU5ZjctMWM5NC00ZGNmLWFkNzctZjFkZTZjMTVlMGVkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDIxMTcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhYzcyYzk0MDE1MDFlNGY3NjM3ZjBkYjhhYzY5MWJiZjM1OGEyMGEwZjE3YWI3YzMyMGYxNGMyZjk3OTEyMTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YtG0EHjMhiTZXEEOPxIMCSpZuO4ewbgDbazC_rDsiAE)
+
 </details>
 
 <details>
