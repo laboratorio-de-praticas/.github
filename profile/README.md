@@ -119,7 +119,10 @@ A vitrine será a interface pública do sistema, onde os projetos das feiras FTX
 - Filtros para busca de projetos por categoria, turma ou feira (FTX/HubTec).  
 - Design responsivo, funcionando bem em dispositivos móveis e desktop.  
 - Integração com o módulo de **Votação** para permitir que os usuários votem diretamente na vitrine.  
-- Links para compartilhamento nas redes sociais, aumentando a visibilidade dos projetos.  
+- Links para compartilhamento nas redes sociais, aumentando a visibilidade dos projetos.
+
+![Organograma - Equipe Vitrine - 2025_1]![Equipe pptx](https://github.com/user-attachments/assets/7dfaab6c-b818-44a8-b639-ca2fbbe98fb2)
+
 </details>
 
 <details>
