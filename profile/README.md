@@ -121,7 +121,8 @@ A vitrine será a interface pública do sistema, onde os projetos das feiras FTX
 - Integração com o módulo de **Votação** para permitir que os usuários votem diretamente na vitrine.  
 - Links para compartilhamento nas redes sociais, aumentando a visibilidade dos projetos.
 
-![Organograma - Equipe Vitrine - 2025_1]![Equipe pptx](https://github.com/user-attachments/assets/7dfaab6c-b818-44a8-b639-ca2fbbe98fb2)
+![Organograma - Equipe Vitrine - 2025_1](https://github.com/user-attachments/assets/76df20ec-8717-4fba-8505-fcc229e0980b)
+
 
 </details>
 
