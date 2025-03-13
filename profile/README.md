@@ -106,6 +106,8 @@ O núcleo do sistema, onde os usuários (alunos, professores e público externo)
 - Interface simples e intuitiva, com confirmação visual do voto registrado.  
 - Garantia de anonimato e integridade dos votos.  
 - Limitação de um voto por usuário/dispositivo (controle por IP ou autenticação).  
+
+![ornograma-votacao](https://github.com/user-attachments/assets/3baf0fd8-7ec2-4423-b867-068c02769796)
 </details>
 
 <details>
