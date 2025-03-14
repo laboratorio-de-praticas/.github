@@ -158,6 +158,9 @@ Este produto cuidará da integração entre os diferentes módulos do sistema e 
 - Documentação clara das APIs para facilitar a manutenção e futuras integrações.  
 </details>
 
+![Organograma_Tribo_Integração drawio__1__2_](https://github.com/user-attachments/assets/84bbff36-b0db-4bc1-8629-8fbbd4b84d5c)
+
+
 ---
 
 ## Equipes e Responsabilidades
