@@ -117,11 +117,11 @@ O núcleo do sistema, onde os usuários (alunos, professores e público externo)
 A vitrine será a interface pública do sistema, onde os projetos das feiras FTX e HubTec serão exibidos para o público votante.  
 
 **Funcionalidades Principais:**  
-- Exibição dos projetos cadastrados no CMS, com fotos, descrições e detalhes.  
-- Filtros para busca de projetos por categoria, turma ou feira (FTX/HubTec).  
+- Exibição dos projetos cadastrados no CMS, com fotos, descrições e detalhes.  (Descontinuado)
+- Filtros para busca de projetos por categoria, turma ou feira (Descontinuado).  
 - Design responsivo, funcionando bem em dispositivos móveis e desktop.  
 - Integração com o módulo de **Votação** para permitir que os usuários votem diretamente na vitrine.  
-- Links para compartilhamento nas redes sociais, aumentando a visibilidade dos projetos.
+- Links para compartilhamento nas redes sociais, aumentando a visibilidade dos projetos.(Descontinuado)
 
 ![Organograma - Equipe Vitrine - 2025_1](https://github.com/user-attachments/assets/76df20ec-8717-4fba-8505-fcc229e0980b)
 
