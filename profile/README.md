@@ -27,9 +27,9 @@ As atualizações ocorrerão nas seguintes sextas-feiras:
 |-------------|----------------| ---------------|---------------------------------------------------------------------------------|
 |     ✅      | **25/fev**     |        -       | Início do Projeto.                                                              |
 |     ✅      | **28/fev**     | Entrega 1      | Definição final da user stories.                                                |
-|     ⚙️      | **07/mar**     | Entrega 2      | Definição final das equipes e definição das stacks do projeto.                  |
-|     ⚙️      | **14/mar**     | Entrega 3      | Revisão do protótipo de UX e validação da autenticação segura (Back-End).       |
-|     ⚙️      | **21/mar**     | Entrega 4      | Entrega parcial: sistema de autenticação funcional e telas de votação interna.  |
+|     ✅      | **07/mar**     | Entrega 2      | Definição final das equipes e definição das stacks do projeto.                  |
+|     ✅      | **14/mar**     | Entrega 3      | Revisão do protótipo de UX e validação da autenticação segura (Back-End).       |
+|     ✅      | **21/mar**     | Entrega 4      | Entrega parcial: sistema de autenticação funcional e telas de votação interna.  |
 |     ⚙️      | **28/mar**     | Entrega 5      | Revisão da votação interna e início do desenvolvimento da votação pública.      |
 |     ⚙️      | **04/abr**     | Entrega 6      | Testes de usabilidade e acessibilidade nas telas de votação.                    |
 |     ⚙️      | **11/abr**     | Entrega 7      | Entrega parcial: votação pública funcional e painel de resultados em tempo real.|
